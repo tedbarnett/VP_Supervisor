@@ -1,0 +1,7 @@
+RowName,TextStyle
+"Bold","(Font=(TypefaceFontName=""Bold"", Size=16), Color=(SpecifiedColor=(R=1,G=1,B=1,A=1)))"
+"Italic","(Font=(TypefaceFontName=""Italic"", Size=16), Color=(SpecifiedColor=(R=1,G=1,B=1,A=1)))"
+"Header1","(Font=(TypefaceFontName=""Bold"", Size=24), Color=(SpecifiedColor=(R=0.8,G=0.9,B=1,A=1)))"
+"Bullet","(Font=(TypefaceFontName=""Regular"", Size=16), Color=(SpecifiedColor=(R=1,G=1,B=1,A=1)))"
+"Number","(Font=(TypefaceFontName=""Regular"", Size=16), Color=(SpecifiedColor=(R=1,G=1,B=1,A=1)))"
+"Indent","(Font=(TypefaceFontName=""Regular"", Size=16), Color=(SpecifiedColor=(R=0.8,G=0.8,B=0.8,A=1)))"
