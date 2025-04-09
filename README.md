@@ -1,10 +1,12 @@
-# VP_Supervisor - an Editor Utility Widget for Virtual Productions
+# VP_Supervisor
+*An Editor Utility Widget for Virtual Production Supervisors*
 
-Helps Virtual Production Supervisors and Engine Ops teams...
+Designed to help VP Supervisors...
  - Set up a folder hierarchy that works in a production environment
  - Identify performance issues and find solutions
  - Quickly move their camera or nDisplay (NDC Volume) into position shotlist setups
  - Convert large groups of identical static meshes into a more efficient "Hierarchical Instanced Static Mesh" (and back again)
+ - A companion to our [Virtual Production Field Guide](https://github.com/tedbarnett/Virtual_Production)
 
 
 ![VP_Supervisor-Screenshots](https://github.com/user-attachments/assets/72ea2e11-a4aa-4d04-8228-a47f16ae38c6)
