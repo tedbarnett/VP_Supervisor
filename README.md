@@ -6,6 +6,7 @@ Designed to help VP Supervisors...
  - Identify performance issues and find solutions
  - Quickly move the camera or nDisplay (NDC Volume) into position from a shotlist
  - Convert large groups of identical static meshes into a more efficient "Hierarchical Instanced Static Mesh" (and back again)
+ - [Features in development](https://github.com/tedbarnett/VP_Supervisor/issues)!
  - A companion to [Virtual Production Field Guide](https://github.com/tedbarnett/Virtual_Production)
 
 
