@@ -3,7 +3,7 @@
 
 Designed to help VP Supervisors...
  - Set up a folder hierarchy that works in a production environment
- - Identify performance issues and find solutions
+ - Find and fix performance issues
  - Quickly move the camera or nDisplay (NDC Volume) into position from a shotlist
  - Convert large groups of identical static meshes into a more efficient "Hierarchical Instanced Static Mesh" (and back again)
  - [Features in development](https://github.com/tedbarnett/VP_Supervisor/issues)!
