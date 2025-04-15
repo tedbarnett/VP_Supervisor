@@ -4,7 +4,7 @@
 Designed to help VP Supervisors...
  - Set up a folder hierarchy that works in a production environment
  - Identify performance issues and find solutions
- - Quickly move their camera or nDisplay (NDC Volume) into position shotlist setups
+ - Quickly move the camera or nDisplay (NDC Volume) into position from a shotlist
  - Convert large groups of identical static meshes into a more efficient "Hierarchical Instanced Static Mesh" (and back again)
  - A companion to our [Virtual Production Field Guide](https://github.com/tedbarnett/Virtual_Production)
 
