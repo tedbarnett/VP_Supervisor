@@ -15,7 +15,7 @@ Designed to help VP Supervisors...
 ![VP_Supervisor-Screenshots](https://github.com/user-attachments/assets/72ea2e11-a4aa-4d04-8228-a47f16ae38c6)
 
 
-## Installation:
+## Installation
  - Clone this repo and open the project "VP_Supervisor.uproject" in Unreal Engine 5.3 (or higher)
  - Open the Content Drawer and find the VP_Supervisor folder
  - Right-click on the item "VP_Supervisor"
@@ -23,7 +23,10 @@ Designed to help VP Supervisors...
  - To add this widget to your own project, "Migrate" the widget over to our project (or copy the "VP_Supervisor" folder into your Content folder)
 
 
-![VP_Supervisor-Installation](https://github.com/user-attachments/assets/71831994-8225-48da-a98e-94fb5eb75b84)
+![VP_Supervisor - Installation](https://github.com/user-attachments/assets/c795d429-576b-4a1f-81a7-0e7aa6a11812)
+ 
+## Virtual Prodcution Hardware Diagram
+![Virtual_Production_Hardware](https://github.com/user-attachments/assets/2eebe9fb-6bb2-4452-bbda-efc329b1d2b8)
 
 
 ## Contributing
