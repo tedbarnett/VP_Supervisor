@@ -11,9 +11,7 @@ Designed to help VP Supervisors...
 
 
 # Screenshots
-
 ![VP_Supervisor-Screenshots](https://github.com/user-attachments/assets/72ea2e11-a4aa-4d04-8228-a47f16ae38c6)
-
 
 ## Installation
  - Clone this repo and open the project "VP_Supervisor.uproject" in Unreal Engine 5.3 (or higher)
@@ -24,8 +22,9 @@ Designed to help VP Supervisors...
 
 
 ![VP_Supervisor - Installation](https://github.com/user-attachments/assets/c795d429-576b-4a1f-81a7-0e7aa6a11812)
- 
-## Virtual Prodcution Hardware Diagram
+
+
+## Virtual Production Hardware Diagram
 ![Virtual_Production_Hardware](https://github.com/user-attachments/assets/2eebe9fb-6bb2-4452-bbda-efc329b1d2b8)
 
 
