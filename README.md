@@ -13,7 +13,7 @@ Designed to help VP Supervisors...
 # Screenshots
 ![VP_Supervisor-Screenshots](https://github.com/user-attachments/assets/72ea2e11-a4aa-4d04-8228-a47f16ae38c6)
 
-## Installation
+## Installation 
  - Clone this repo and open the project "VP_Supervisor.uproject" in Unreal Engine 5.3 (or higher)
  - Open the Content Drawer and find the VP_Supervisor folder
  - Right-click on the item "VP_Supervisor"
