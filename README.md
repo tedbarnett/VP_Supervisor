@@ -1,7 +1,7 @@
 # VP_Supervisor
 *An Editor Utility Widget for Virtual Production Supervisors*
 
-Designed to help VP Supervisors...
+Designed to help VP Supervisors... 
  - Set up a folder hierarchy that works in a production environment
  - Find and fix performance issues
  - Quickly move the camera or nDisplay (NDC Volume) into position from a shotlist
